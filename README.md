@@ -4,3 +4,4 @@ test pull
 test push
 test pull
 test pull again
+test push
