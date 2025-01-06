@@ -5,3 +5,4 @@ test push
 test pull
 test pull again
 test push
+test 8
